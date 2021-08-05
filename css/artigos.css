@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #0e1111;
+  background-color: #333;
   position: fixed;
   top: 0;
   width: 100%;
@@ -12,7 +12,7 @@ ul {
   top: 0;
 }
 .active {
-  background-color: #333;
+  background-color: #0e1111;
 }
 
 li {
@@ -36,7 +36,7 @@ ul.topnav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #0e1111;
+  background-color: #333;
 }
 
 ul.topnav li {
